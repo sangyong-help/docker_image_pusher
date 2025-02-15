@@ -1,2 +1,2 @@
 ollama/ollama
-qinglong
+linzeyi/hivision idphotos:latest
