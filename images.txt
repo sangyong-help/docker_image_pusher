@@ -1,1 +1,1 @@
-github.com/open-webui/open-webui
+ghcr.io/open-webui/open-webui
