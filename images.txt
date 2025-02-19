@@ -1,1 +1,1 @@
-ghcr.io/open-webui/open-webui
+ghcr.io/open-webui/open-webui:0.5.14
